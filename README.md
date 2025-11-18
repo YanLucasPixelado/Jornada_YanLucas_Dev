@@ -14,7 +14,7 @@ Atualmente trabalho com muito afinco para em um futuro próximo me tornar um Eng
 - Estudando Linguagens de programação, redes de computadores, otimização, automatização, programção a objetos etc.
 - Desenvolvendo consistência para manter tanto o Git quanto o GitHub movimentados(organização, commits, documentação)
 
-## Interesses na área
+## 🧠 Interesses na área
 - Desnvolvimento Backend
 - Arquitetura de Software
 - Estrutura de dados & Algoritmos
@@ -24,7 +24,7 @@ Atualmente trabalho com muito afinco para em um futuro próximo me tornar um Eng
 
 ---
 
-## Tecnologias que uso/estudo
+## 🛠 Tecnologias que uso/estudo
 **Linguagens**
 - Python
 - Javascript
@@ -37,7 +37,7 @@ Atualmente trabalho com muito afinco para em um futuro próximo me tornar um Eng
 
 ---
 
-## Repositórios Principais
+## 📂 Repositórios Principais
 ### Plataformas Hand-Ons
 Repositório responsável por registrar as minhas resoluções de problemas de algoritmos e desafios técnicos.
 Organizado por plataforma, dificuldade e linguagem usada. Sendo as mesmas acompanhadas de explicações e complexidade quando possível.
@@ -47,7 +47,7 @@ Aplicações pequenas e médias de projetos pessoais que visam treinar a lógica
 
 ---
 
-## Objetivos a curto/médio prazo
+## 🎯 Objetivos a curto/médio prazo
 - Construir um portifólio sólido com projetos reais e aplicavéis
 - Aprimorar meu domínio em linguagens as quais tomo como principais
 - Entender estrutura de software e boas práticas mais avançadas
@@ -55,7 +55,7 @@ Aplicações pequenas e médias de projetos pessoais que visam treinar a lógica
 
 ---
 
-## Como me contatar
+## 📫 Como me contatar
 - Email: yanlalmeida05@gmail.com
 - Linkedin: www.linkedin.com/in/yan-lucas-dos-santos-almeida-76b27a202
 
@@ -63,7 +63,8 @@ Aplicações pequenas e médias de projetos pessoais que visam treinar a lógica
 
 ### "Mais sábio, mais forte e melhor que ontem. Pior que amanhã."
 Sou constante. Persistente.
-Caçador incessante da excelência em tudo em que se propôe a fazer.
+
+Caçador incessante da excelência em tudo em que me proponho a fazer.
 
 Estou construindo minha melhor versão, **um commmit por dia**.
-Não tenha vergonham dos erros - aprenda com eles :).
+Não tenha vergonha dos erros - aprenda com eles :).
